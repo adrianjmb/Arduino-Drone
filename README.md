@@ -10,6 +10,16 @@ Proyecto centrado en el diseño de un quadcopter basado en Arduino.
 
 + Leer la Wiki
 
+## Progreso
+|Actividad       | Realizada  |
+|----------------|----------- |
+| Estudio IMU    | NO         |
+| Control motor  | NO         |
+| Balancín       | NO         |
+| Control 2 ejes | NO         |
+| APP móvil      | NO         |
+
+
 
 
 
