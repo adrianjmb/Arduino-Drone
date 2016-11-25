@@ -4,20 +4,21 @@ Proyecto centrado en el diseño de un quadcopter basado en Arduino.
 
 
 ## Getting Started
-+ Desarrollo en el entorno de Arduino
-+ Ir incorporando ideas/páginas útiles en un principio
-+ Diseño impresión 3D
++ [Entorno de Arduino](https://github.com/adrianjmb/Arduino-Drone/wiki/Entorno-de-desarrollo)
++ Materiales
++ Ir poniendo los pasos aquí
 
-+ Leer la Wiki
+Para un desarrollo completo:
++ [Leer la Wiki](https://github.com/adrianjmb/Arduino-Drone/wiki)
 
 ## Progreso
-|Actividad       | Realizada  |
-|----------------|----------- |
-| Estudio IMU    | NO         |
-| Control motor  | NO         |
-| Balancín       | NO         |
-| Control 2 ejes | NO         |
-| APP móvil      | NO         |
+
+- [ ] Estudio IMU    
+- [ ] Control motor 
+- [ ] Balancín      
+- [ ] Control 2 ejes 
+- [ ] Transmisor
+- [ ] APP móvil     
 
 
 
